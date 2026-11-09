@@ -1,0 +1,1474 @@
+{
+  "words": {
+    "fox": {
+      "word": "fox",
+      "file": "fox.webp",
+      "source_url": "https://www.flickr.com/photos/10601432@N08/905461590",
+      "author": "peupleloup",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "title": "Grand renard tout proche/Large very close fox",
+      "verified": true,
+      "kind": "animal",
+      "notes": "Full-body red fox in profile, clear and kid-friendly.",
+      "src_local": "/tmp/ks-photo-work/candidates/fox/01.jpg",
+      "crop": null,
+      "bytes": 42116,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "box": {
+      "word": "box",
+      "file": "box.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Box.agr.jpg",
+      "author": "ArnoldReinhold",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "File:Box.agr.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Empty cardboard box, no brands.",
+      "src_local": "/tmp/ks-photo-work/candidates/box/02.jpg",
+      "crop": null,
+      "bytes": 27016,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "six": {
+      "word": "six",
+      "file": "six.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Double-six-dice.jpg",
+      "author": "Joy Shrader",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Double-six-dice.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two dice showing six pips on a plain yellow background.",
+      "src_local": "/tmp/ks-photo-work/candidates/six/05b.jpg",
+      "crop": null,
+      "bytes": 13072,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "mix": {
+      "word": "mix",
+      "file": "mix.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Casatiello_-_Mixing_dough_(3617955916).jpg",
+      "author": "Rebecca Siegel",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Casatiello - Mixing dough (3617955916).jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Dough being mixed in a mixer bowl with a beater; mixing action is obvious.",
+      "src_local": "/tmp/ks-photo-work/candidates/mix/c05.jpg",
+      "crop": null,
+      "bytes": 30006,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "ax": {
+      "word": "ax",
+      "file": "ax.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Axe_(137275669).jpeg",
+      "author": "Joscha",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "title": "File:Axe (137275669).jpeg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Axe in a stump; cropped to a square around the axe and to remove a small bottom-right watermark.",
+      "src_local": "/tmp/ks-photo-work/candidates/ax/01.jpg",
+      "crop": [
+        0.3396,
+        0.0,
+        0.9198,
+        0.8744
+      ],
+      "bytes": 28504,
+      "size": [
+        556,
+        556
+      ]
+    },
+    "brick": {
+      "word": "brick",
+      "file": "brick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brick.jpg",
+      "author": "Andrewlister",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "Brick.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single red clay brick on a wooden table.",
+      "src_local": "/tmp/ks-photo-work/candidates/brick/f01.jpg",
+      "crop": null,
+      "bytes": 32490,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "chick": {
+      "word": "chick",
+      "file": "chick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kueken.jpg",
+      "author": "Deniz, Deniz Keskin, Troisdorf",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "Kueken.jpg",
+      "verified": true,
+      "kind": "animal",
+      "notes": "One baby chick standing in an adult hand; no identifiable face.",
+      "src_local": "/tmp/ks-photo-work/candidates/chick/f03.jpg",
+      "crop": null,
+      "bytes": 21342,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "lynx": {
+      "word": "lynx",
+      "file": "lynx.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Luchs187.jpg",
+      "author": "Noah.schuldt",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Luchs187.jpg",
+      "verified": true,
+      "kind": "animal",
+      "notes": "Eurasian lynx with tufted ears standing by water.",
+      "src_local": "/tmp/ks-photo-work/candidates/lynx/12.jpg",
+      "crop": null,
+      "bytes": 75568,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "wax": {
+      "word": "wax",
+      "file": "wax.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Beeswax.jpg",
+      "author": "Frank Mikley",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "title": "File:Beeswax.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Large cylinder of beeswax; cropped to exclude a sign and bag text.",
+      "src_local": "/tmp/ks-photo-work/candidates/wax/c01.jpg",
+      "crop": [
+        0.18,
+        0.22,
+        0.85,
+        0.86
+      ],
+      "bytes": 24352,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "book": {
+      "word": "book",
+      "file": "book.webp",
+      "source_url": "https://www.flickr.com/photos/155403590@N07/51942507753",
+      "author": "dejankrsmanovic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "One Big Thick Book",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single open standing book; no readable title.",
+      "src_local": "/tmp/ks-photo-work/candidates/book/o05.jpg",
+      "crop": null,
+      "bytes": 12478,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "books": {
+      "word": "books",
+      "file": "books.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Stack_of_books.jpg",
+      "author": "Nipunbayas",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Stack of books.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Stack of several plain white books; cropped to exclude wall stickers and keep the stack shape visible.",
+      "src_local": "/tmp/ks-photo-work/candidates/books/c01.jpg",
+      "crop": [
+        0.1198,
+        0.0194,
+        0.7646,
+        0.8792
+      ],
+      "bytes": 7896,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "fork": {
+      "word": "fork",
+      "file": "fork.webp",
+      "source_url": "https://www.rawpixel.com/image/8142717/dinner-fork-one-twelve",
+      "author": "themet",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "Dinner fork (one of twelve)",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single silver dinner fork on a plain gray background.",
+      "src_local": "/tmp/ks-photo-work/candidates/fork/o03.jpg",
+      "crop": null,
+      "bytes": 3576,
+      "size": [
+        441,
+        441
+      ]
+    },
+    "forks": {
+      "word": "forks",
+      "file": "forks.webp",
+      "source_url": "https://www.flickr.com/photos/31518985@N04/52688942513",
+      "author": "ambabheg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "2023 (365 challenge) - Week 7 (Shadows) - Day 4 - two forks back to back",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two forks with shadows on a white background.",
+      "src_local": "/tmp/ks-photo-work/candidates/forks/o01.jpg",
+      "crop": null,
+      "bytes": 36888,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "cake": {
+      "word": "cake",
+      "file": "cake.webp",
+      "source_url": "https://www.flickr.com/photos/90692748@N04/52651664279",
+      "author": "docoverachiever",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Showstopper",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single decorated layer cake on a stand, no text.",
+      "src_local": "/tmp/ks-photo-work/candidates/cake/o03.jpg",
+      "crop": null,
+      "bytes": 76310,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "cakes": {
+      "word": "cakes",
+      "file": "cakes.webp",
+      "source_url": "https://www.rawpixel.com/image/3305416/free-photo-image-muffin-cupcakes-chocolate",
+      "author": "Unknown",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "woman holding several cupcakes her",
+      "verified": true,
+      "kind": "object",
+      "notes": "Several muffins held in adult hands (no face); used for plural cakes. Cropped to the baked goods.",
+      "src_local": "/tmp/ks-photo-work/candidates/cakes/o01.jpg",
+      "crop": [
+        0.15,
+        0.32,
+        0.88,
+        0.88
+      ],
+      "bytes": 39406,
+      "size": [
+        499,
+        499
+      ]
+    },
+    "duck": {
+      "word": "duck",
+      "file": "duck.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%27Anas_platyrhynchos%27_duck_Mallard_at_Henham_Essex_England_01.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:'Anas platyrhynchos' duck Mallard at Henham Essex England 01.jpg",
+      "verified": true,
+      "kind": "animal",
+      "notes": "A single duck standing on grass.",
+      "src_local": "/tmp/ks-photo-work/candidates/duck/01.jpg",
+      "crop": null,
+      "bytes": 148700,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "ducks": {
+      "word": "ducks",
+      "file": "ducks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Two_Male_Mallard_Ducks.jpg",
+      "author": "Amaury Laporte",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Two Male Mallard Ducks.jpg",
+      "verified": true,
+      "kind": "animal",
+      "notes": "Two mallard ducks in water.",
+      "src_local": "/tmp/ks-photo-work/candidates/ducks/02.jpg",
+      "crop": null,
+      "bytes": 66790,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "stick": {
+      "word": "stick",
+      "file": "stick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82_%D0%BF%D0%B0%D0%BB%D0%BA%D0%B8_%D0%B7%D0%B0_%D1%81%D1%87%D0%B5%D1%82_%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC_%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D0%B5%D0%BC.JPG",
+      "author": "Weldis",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:\u041f\u043b\u043e\u0442\u043d\u044b\u0439 \u0437\u0430\u0445\u0432\u0430\u0442 \u043f\u0430\u043b\u043a\u0438 \u0437\u0430 \u0441\u0447\u0435\u0442 \u0437\u0430\u043c\u044b\u043a\u0430\u043d\u0438\u044f \u0431\u043e\u043b\u044c\u0448\u0438\u043c \u043f\u0430\u043b\u044c\u0446\u0435\u043c.JPG",
+      "verified": true,
+      "kind": "object",
+      "notes": "An adult hand holding one wooden stick.",
+      "src_local": "/tmp/ks-photo-work/candidates/sticks/05.jpg",
+      "crop": null,
+      "bytes": 44164,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "sticks": {
+      "word": "sticks",
+      "file": "sticks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Firewood.jpg",
+      "author": "Tlus\u0165a",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "Firewood.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A stacked pile of cut firewood; many wooden sticks/logs (hard to find a tidy bundle of twigs).",
+      "src_local": "/tmp/ks-photo-work/candidates/sticks/f01.jpg",
+      "crop": null,
+      "bytes": 131156,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "socks": {
+      "word": "socks",
+      "file": "socks.webp",
+      "source_url": "https://www.flickr.com/photos/12070225@N03/53378488692",
+      "author": "judy dean",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "title": "My first pair of socks!",
+      "verified": true,
+      "kind": "object",
+      "notes": "A pair of colorful knitted socks on adult feet.",
+      "src_local": "/tmp/ks-photo-work/candidates/socks/o01.jpg",
+      "crop": null,
+      "bytes": 114816,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "sock": {
+      "word": "sock",
+      "file": "sock.webp",
+      "source_url": "https://www.flickr.com/photos/12070225@N03/53378488692",
+      "author": "judy dean",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "title": "My first pair of socks!",
+      "verified": true,
+      "kind": "object",
+      "notes": "One colorful knitted sock, cropped from a photo of a pair on adult feet so the subject is singular.",
+      "src_local": "/tmp/ks-photo-work/candidates/socks/o01.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        0.55,
+        0.7
+      ],
+      "bytes": 48188,
+      "size": [
+        394,
+        394
+      ]
+    },
+    "rake": {
+      "word": "rake",
+      "file": "rake.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rake.jpg",
+      "author": "Unknown",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "File:Rake.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single leaf rake on a plain floor. A small handle label remains.",
+      "src_local": "/tmp/ks-photo-work/candidates/rake/02.jpg",
+      "crop": null,
+      "bytes": 7220,
+      "size": [
+        222,
+        222
+      ]
+    },
+    "rock": {
+      "word": "rock",
+      "file": "rock.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rock_-_Cala_Barques.jpg",
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Rock - Cala Barques.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single large rock in clear water.",
+      "src_local": "/tmp/ks-photo-work/candidates/rock/04.jpg",
+      "crop": null,
+      "bytes": 142246,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "chicks": {
+      "word": "chicks",
+      "file": "chicks.webp",
+      "source_url": "https://www.flickr.com/photos/10485077@N06/52402920268",
+      "author": "edenpictures",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Baby Chicks",
+      "verified": true,
+      "kind": "animal",
+      "notes": "A group of yellow baby chicks; cropped to exclude a thermometer and most of a toy tractor.",
+      "src_local": "/tmp/ks-photo-work/candidates/chicks/o02.jpg",
+      "crop": [
+        0.28,
+        0.5,
+        0.98,
+        0.95
+      ],
+      "bytes": 40526,
+      "size": [
+        460,
+        460
+      ]
+    },
+    "rocks": {
+      "word": "rocks",
+      "file": "rocks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Batumi2025-beach-stones.jpg",
+      "author": "Vitaly Zdanevich",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "title": "File:Batumi2025-beach-stones.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Many beach pebbles; clearly plural rocks.",
+      "src_local": "/tmp/ks-photo-work/candidates/rocks/04.jpg",
+      "crop": null,
+      "bytes": 110002,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "locks": {
+      "word": "locks",
+      "file": "locks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:.lock-traditional-Tamil_Nadu.jpg",
+      "author": "Googlesuresh",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:.lock-traditional-Tamil Nadu.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two padlocks on a gate chain; cropped in to the locks.",
+      "src_local": "/tmp/ks-photo-work/candidates/locks/02.jpg",
+      "crop": [
+        0.35,
+        0.1,
+        0.8,
+        0.7
+      ],
+      "bytes": 28584,
+      "size": [
+        409,
+        409
+      ]
+    },
+    "lock": {
+      "word": "lock",
+      "file": "lock.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:.lock-traditional-Tamil_Nadu.jpg",
+      "author": "Googlesuresh",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:.lock-traditional-Tamil Nadu.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single silver padlock, cropped from a photo of two locks.",
+      "src_local": "/tmp/ks-photo-work/candidates/locks/02.jpg",
+      "crop": [
+        0.5,
+        0.16,
+        0.78,
+        0.58
+      ],
+      "bytes": 17130,
+      "size": [
+        286,
+        286
+      ]
+    },
+    "snack": {
+      "word": "snack",
+      "file": "snack.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Healthy_snack_plate_with_fruit_and_nuts.jpg",
+      "author": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Liat Portal for Foodie Disorder - Healthy snack plate with fruit and nuts.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A plate of fruit and nuts: one snack, no brands.",
+      "src_local": "/tmp/ks-photo-work/candidates/snack/05.jpg",
+      "crop": null,
+      "bytes": 41410,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "snacks": {
+      "word": "snacks",
+      "file": "snacks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:20120106-OC-AMW-0752_(7943576876).jpg",
+      "author": "U.S. Department of Agriculture / Ken Hammond",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "File:20120106-OC-AMW-0752 (7943576876).jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A snack tray of grapes, cottage cheese, and melon; cropped to exclude handwritten lid text.",
+      "src_local": "/tmp/ks-photo-work/candidates/snacks/05.jpg",
+      "crop": [
+        0.0,
+        0.02,
+        0.68,
+        0.98
+      ],
+      "bytes": 75564,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "kick": {
+      "word": "kick",
+      "file": "kick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Football_in_Bloomington,_Indiana,_1995.jpg",
+      "author": "Rick Dikeman",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "File:Football in Bloomington, Indiana, 1995.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult soccer player kicking a ball at a goal.",
+      "src_local": "/tmp/ks-photo-work/candidates/kick/03.jpg",
+      "crop": null,
+      "bytes": 52526,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "walk": {
+      "word": "walk",
+      "file": "walk.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Woman_walking_down_path_(Unsplash).jpg",
+      "author": "Biel Morro",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Woman walking down path (Unsplash).jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult woman walking away down a tree-lined path (used instead of a photo titled as a girl walking a dog).",
+      "src_local": "/tmp/ks-photo-work/candidates/walks/03.jpg",
+      "crop": null,
+      "bytes": 46422,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "park": {
+      "word": "park",
+      "file": "park.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:-15wiki.jpg",
+      "author": "Park taeho",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:-15wiki.jpg",
+      "verified": true,
+      "kind": "scene",
+      "notes": "Park benches under trees.",
+      "src_local": "/tmp/ks-photo-work/candidates/park/01.jpg",
+      "crop": null,
+      "bytes": 124900,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "hook": {
+      "word": "hook",
+      "file": "hook.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coat_hook_A.jpg",
+      "author": "Fructibus",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:Coat hook A.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single over-the-door hook on a wood background.",
+      "src_local": "/tmp/ks-photo-work/candidates/hooks/03.jpg",
+      "crop": null,
+      "bytes": 60082,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "knocks": {
+      "word": "knocks",
+      "file": "knocks.webp",
+      "source_url": "https://www.flickr.com/photos/195311218@N08/52160093284",
+      "author": "The Bag N Box Man LTD",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "A Delivery Driver Knocking on a Door to Deliver Packages",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult knocking on a door, seen from behind, no identifiable face.",
+      "src_local": "/tmp/ks-photo-work/candidates/knocks/o02.jpg",
+      "crop": null,
+      "bytes": 12202,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "knock": {
+      "word": "knock",
+      "file": "knock.webp",
+      "source_url": "https://www.flickr.com/photos/12203485@N05/51591261885",
+      "author": "J316",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "Who's Knocking at your door?",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single lion-head door knocker on a red door.",
+      "src_local": "/tmp/ks-photo-work/candidates/knocks/o01.jpg",
+      "crop": [
+        0.0,
+        0.22,
+        0.42,
+        0.62
+      ],
+      "bytes": 9132,
+      "size": [
+        301,
+        301
+      ]
+    },
+    "lick": {
+      "word": "lick",
+      "file": "lick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dog_body_language_licking_nose_(no_food)_drooped_ears.jpg",
+      "author": "Gopal Aggarwal",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Dog body language licking nose (no food) drooped ears.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "A dog licking its nose; cropped to exclude a hand at the edge.",
+      "src_local": "/tmp/ks-photo-work/candidates/lick/09.jpg",
+      "crop": [
+        0.1,
+        0.0,
+        0.72,
+        0.85
+      ],
+      "bytes": 32804,
+      "size": [
+        595,
+        595
+      ]
+    },
+    "licks": {
+      "word": "licks",
+      "file": "licks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Andy_Fossett.jpg",
+      "author": "Fossett",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "title": "File:Andy Fossett.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult licking an ice-cream cone (verb uses one person).",
+      "src_local": "/tmp/ks-photo-work/candidates/licks/02.jpg",
+      "crop": null,
+      "bytes": 6666,
+      "size": [
+        250,
+        250
+      ]
+    },
+    "bricks": {
+      "word": "bricks",
+      "file": "bricks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fallen_bricks.jpg",
+      "author": "Tomascastelazo",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Fallen bricks.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A large pile of loose red and tan bricks.",
+      "src_local": "/tmp/ks-photo-work/candidates/brick/02.jpg",
+      "crop": null,
+      "bytes": 90842,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "looks": {
+      "word": "looks",
+      "file": "looks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:05.12_%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%A1%94%E6%A8%93%E6%8E%9B%E5%AD%97_(49912250086).jpg",
+      "author": "\u7e3d\u7d71\u5e9c",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:05.12 \u7e3d\u7d71\u5e9c\u5854\u6a13\u639b\u5b57 (49912250086).jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult looking through binoculars.",
+      "src_local": "/tmp/ks-photo-work/candidates/looks/10.jpg",
+      "crop": null,
+      "bytes": 44322,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "look": {
+      "word": "look",
+      "file": "look.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:120803-N-NL541-230_(7775520024).jpg",
+      "author": "U.S. Department of Defense Current Photos",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "File:120803-N-NL541-230 (7775520024).jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult looking out to sea with binoculars, from behind; cropped to exclude a name on a belt.",
+      "src_local": "/tmp/ks-photo-work/candidates/looks/12.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        0.7,
+        0.8
+      ],
+      "bytes": 16318,
+      "size": [
+        548,
+        548
+      ]
+    },
+    "pack": {
+      "word": "pack",
+      "file": "pack.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:BNRADIO1.jpg",
+      "author": "Leonce49 at German Wikipedia",
+      "license": "CC BY-SA 2.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "title": "File:BNRADIO1.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single canvas backpack in a display case, no obvious brand.",
+      "src_local": "/tmp/ks-photo-work/candidates/packs/06.jpg",
+      "crop": null,
+      "bytes": 31086,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "links": {
+      "word": "links",
+      "file": "links.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:13-03-17_Iced_Chain.JPG",
+      "author": "Achim Raschka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:13-03-17 Iced Chain.JPG",
+      "verified": true,
+      "kind": "object",
+      "notes": "A hanging metal chain (ice-covered) showing several links.",
+      "src_local": "/tmp/ks-photo-work/candidates/links/04.jpg",
+      "crop": null,
+      "bytes": 30596,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "link": {
+      "word": "link",
+      "file": "link.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:13-03-17_Iced_Chain.JPG",
+      "author": "Achim Raschka",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:13-03-17 Iced Chain.JPG",
+      "verified": true,
+      "kind": "object",
+      "notes": "One chain link, cropped from a photo of a hanging chain.",
+      "src_local": "/tmp/ks-photo-work/candidates/links/04.jpg",
+      "crop": [
+        0.35,
+        0.35,
+        0.65,
+        0.65
+      ],
+      "bytes": 14886,
+      "size": [
+        288,
+        288
+      ]
+    },
+    "fix": {
+      "word": "fix",
+      "file": "fix.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Man_assembly_wooden_chair,_fixing_or_repairing_house_with_screwdriver_tool.jpg",
+      "author": "Shixart1985",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Man assembly wooden chair, fixing or repairing house with screwdriver tool.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult hand tightening a screw on a chair; cropped to reduce a branded bag in the background. Tiny labels on the wood remain.",
+      "src_local": "/tmp/ks-photo-work/candidates/fix/03.jpg",
+      "crop": [
+        0.28,
+        0.18,
+        0.82,
+        0.78
+      ],
+      "bytes": 35494,
+      "size": [
+        519,
+        519
+      ]
+    },
+    "shake": {
+      "word": "shake",
+      "file": "shake.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bangkok_milkshake.jpg",
+      "author": "Immanuelle",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Bangkok milkshake.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single milkshake with whipped cream and sprinkles; cropped to exclude background store branding.",
+      "src_local": "/tmp/ks-photo-work/candidates/shakes/04.jpg",
+      "crop": [
+        0.16,
+        0.2,
+        0.9,
+        0.9
+      ],
+      "bytes": 33610,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "blocks": {
+      "word": "blocks",
+      "file": "blocks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Child_engaged_in_creative_play_with_wooden_building_blocks_on_a_pink_play_mat_in_a_cozy_indoor_space.jpg",
+      "author": "Shixart1985",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Child engaged in creative play with wooden building blocks on a pink play mat in a cozy indoor space.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A tower of wooden toy blocks; cropped to completely exclude a child sitting at the edge of the original frame.",
+      "src_local": "/tmp/ks-photo-work/candidates/blocks/02.jpg",
+      "crop": [
+        0.0,
+        0.22,
+        0.52,
+        0.82
+      ],
+      "bytes": 15994,
+      "size": [
+        499,
+        499
+      ]
+    },
+    "cooks": {
+      "word": "cooks",
+      "file": "cooks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_skilled_chef_in_gloves_focuses_on_cooking_at_an_outdoor_gathering,_surrounded_by_fresh_ingredients_and_kitchen_tools.jpg",
+      "author": "Shixart1985",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:A skilled chef in gloves focuses on cooking at an outdoor gathering, surrounded by fresh ingredients and kitchen tools.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "An adult cooking food at a small outdoor station (verb: cooks).",
+      "src_local": "/tmp/ks-photo-work/candidates/cooks/03.jpg",
+      "crop": null,
+      "bytes": 35978,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "makes": {
+      "word": "makes",
+      "file": "makes.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Clay_Pottery_Making.jpg",
+      "author": "Ramesh lalwani",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Clay Pottery Making.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Hands making pottery on a wheel.",
+      "src_local": "/tmp/ks-photo-work/candidates/makes/01.jpg",
+      "crop": null,
+      "bytes": 37680,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "make": {
+      "word": "make",
+      "file": "make.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Geigenbauer.jpg",
+      "author": "Walter Sch\u00f6nenbr\u00f6cher",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Geigenbauer.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Adult hands making or crafting something at a workbench (black and white).",
+      "src_local": "/tmp/ks-photo-work/candidates/make/02.jpg",
+      "crop": null,
+      "bytes": 91706,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "talks": {
+      "word": "talks",
+      "file": "talks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Group_of_people_talking.jpg",
+      "author": "UNE Photos",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Group of people talking.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "A group of young adults talking together outdoors.",
+      "src_local": "/tmp/ks-photo-work/candidates/talks/f01.jpg",
+      "crop": null,
+      "bytes": 96688,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "cheek": {
+      "word": "cheek",
+      "file": "cheek.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Golden-mantled_ground_squirrel_feeding_close_up_-_DPLA_-_ade9fec5d917b4117025de4c5f65c22e.jpg",
+      "author": "Garst, Warren, 1922-2016",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "title": "File:Golden-mantled ground squirrel feeding close up - DPLA - ade9fec5d917b4117025de4c5f65c22e.jpg",
+      "verified": true,
+      "kind": "animal",
+      "notes": "A chipmunk eating, showing a cheek pouch. Kid-friendly stand-in for a human cheek.",
+      "src_local": "/tmp/ks-photo-work/candidates/cheek/01.jpg",
+      "crop": null,
+      "bytes": 67006,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "parks": {
+      "word": "parks",
+      "file": "parks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:A_view_on_the_urban_public_park_and_playground_along_Plantage_Middenlaan,_Amsterdam;_high_resolution_image_by_FotoDutch_in_June_2013.jpg",
+      "author": "Fons Heijnsbroek",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "title": "File:A view on the urban public park and playground along Plantage Middenlaan, Amsterdam; high resolution image by FotoDutch in June 2013.jpg",
+      "verified": true,
+      "kind": "scene",
+      "notes": "A park with trees, grass, a bench, and a basketball hoop. Plural 'parks' is hard to show as two parks, so this is a second distinct park scene.",
+      "src_local": "/tmp/ks-photo-work/candidates/parks/05.jpg",
+      "crop": null,
+      "bytes": 136520,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "talk": {
+      "word": "talk",
+      "file": "talk.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Group_of_people_talking.jpg",
+      "author": "UNE Photos",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Group of people talking.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Two people talking, cropped from a group conversation photo so the subject is a closer talk.",
+      "src_local": "/tmp/ks-photo-work/candidates/talks/f01.jpg",
+      "crop": [
+        0.08,
+        0.28,
+        0.48,
+        0.88
+      ],
+      "bytes": 69346,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "packs": {
+      "word": "packs",
+      "file": "packs.webp",
+      "source_url": "https://www.rawpixel.com/image/3300512/free-photo-image-cc0-countryside-creative-commons",
+      "author": "Unknown",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "drone shot two backpackers walking",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two people wearing backpacks, cropped so both packs are clear. Distant aerial view, but two packs are obvious.",
+      "src_local": "/tmp/ks-photo-work/candidates/packs/o01.jpg",
+      "crop": [
+        0.62,
+        0.52,
+        1.0,
+        0.98
+      ],
+      "bytes": 23484,
+      "size": [
+        292,
+        292
+      ]
+    },
+    "walks": {
+      "word": "walks",
+      "file": "walks.webp",
+      "source_url": "https://www.flickr.com/photos/58414938@N00/51298265701",
+      "author": "Peter O'Connor aka anemoneprojectors",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "title": "GOC Epping Forest 012: Green Ride, Epping Thicks",
+      "verified": true,
+      "kind": "action",
+      "notes": "Two adults walking away together on a woodland path.",
+      "src_local": "/tmp/ks-photo-work/candidates/walks/o03.jpg",
+      "crop": [
+        0.38,
+        0.45,
+        0.75,
+        0.88
+      ],
+      "bytes": 38940,
+      "size": [
+        330,
+        330
+      ]
+    },
+    "hooks": {
+      "word": "hooks",
+      "file": "hooks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coat_hooks.jpg",
+      "author": "Pavel \u0160evela",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "Coat hooks.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A wall-mounted row of five red-knob coat hooks. Friendly and clearly plural.",
+      "src_local": "/tmp/ks-photo-work/candidates/hooks/f01.jpg",
+      "crop": null,
+      "bytes": 33302,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "bakes": {
+      "word": "bakes",
+      "file": "bakes.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chocolate_chip_cookies.jpg",
+      "author": "Rdsmith4",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "title": "Chocolate chip cookies.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A plate of freshly baked chocolate chip cookies. Used for plural 'bakes' (baked goods) because a photo of two people baking was not available.",
+      "src_local": "/tmp/ks-photo-work/candidates/snacks/f01.jpg",
+      "crop": null,
+      "bytes": 46664,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "rakes": {
+      "word": "rakes",
+      "file": "rakes.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rubber_rakes.JPG",
+      "author": "SB Johnny",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "Rubber rakes.JPG",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two rubber leaf rakes resting on a flower pot.",
+      "src_local": "/tmp/ks-photo-work/candidates/rakes/s01.jpg",
+      "crop": null,
+      "bytes": 98334,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "shakes": {
+      "word": "shakes",
+      "file": "shakes.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Taro_and_Green_Tea_Milkshakes.jpg",
+      "author": "karendotcom127",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "title": "Taro and Green Tea Milkshakes.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two milkshakes in tall glasses, unbranded.",
+      "src_local": "/tmp/ks-photo-work/candidates/shakes/s03.jpg",
+      "crop": [
+        0.05,
+        0.02,
+        0.95,
+        0.98
+      ],
+      "bytes": 13852,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "block": {
+      "word": "block",
+      "file": "block.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bauklotz_gelb.jpg",
+      "author": "An-d",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "Bauklotz gelb.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single yellow rectangular wooden toy block.",
+      "src_local": "/tmp/ks-photo-work/candidates/block/s02.jpg",
+      "crop": null,
+      "bytes": 11202,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "bake": {
+      "word": "bake",
+      "file": "bake.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chocolate_chip_cookie.jpg",
+      "author": "Renee Comet",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "Chocolate chip cookie.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A single baked chocolate chip cookie. The target is a verb, but the original cartoon also used a baked good.",
+      "src_local": "/tmp/ks-photo-work/candidates/bake/s03.jpg",
+      "crop": null,
+      "bytes": 46454,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "cheeks": {
+      "word": "cheeks",
+      "file": "cheeks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Eastern_chipmunk_(Tamias_striatus)_-_Kennebunk,_Maine,_USA.png",
+      "author": "Chuck Homler, Focus On Wildlife",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Quagmire Chipmunk.png",
+      "verified": true,
+      "kind": "object",
+      "notes": "A chipmunk with both cheek pouches visibly stuffed. Animal cheeks used to avoid identifiable human faces.",
+      "src_local": "/tmp/ks-photo-work/candidates/cheeks/s04.jpg",
+      "crop": null,
+      "bytes": 46192,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "whack": {
+      "word": "whack",
+      "file": "whack.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Creating_a_hasp_loop_15.jpg",
+      "author": "Kambai Akau",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Creating a hasp loop 15.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "A hammer mid-swing about to strike metal held in tongs. Adult hand only; shoe logo cropped out.",
+      "src_local": "/tmp/ks-photo-work/candidates/whack/s02.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        0.72,
+        0.78
+      ],
+      "bytes": 37988,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "sick": {
+      "word": "sick",
+      "file": "sick.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Digital_Thermometer_(51825721879).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "title": "File:Digital Thermometer (51825721879).jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A brand-free digital forehead thermometer. Stand-in for 'sick' because no clean sourced photo of a clearly adult sick person was available.",
+      "src_local": "/tmp/ks-photo-work/candidates/sick/05.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        0.72,
+        1.0
+      ],
+      "bytes": 10126,
+      "size": [
+        540,
+        540
+      ]
+    },
+    "cook": {
+      "word": "cook",
+      "file": "cook.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Cooking_at_Fort_Ross_State_Historic_Park_-_Jenner,_California_-_Sarah_Stierch.jpg",
+      "author": "Sarah Stierch",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "Cooking at Fort Ross State Historic Park - Jenner, California - Sarah Stierch.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Adult hands whisking a sauce in a mixing bowl. No face, no brands.",
+      "src_local": "/tmp/ks-photo-work/candidates/cook/t01.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        0.85,
+        0.95
+      ],
+      "bytes": 38558,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "kicks": {
+      "word": "kicks",
+      "file": "kicks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:2_guys_playing_soccer_-_good.jpg",
+      "author": "RickDikeman",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "2 guys playing soccer - good.jpg",
+      "verified": true,
+      "kind": "action",
+      "notes": "Two adult soccer players; one is kicking the ball toward a goalkeeper. Plain red jersey, no visible brand logos.",
+      "src_local": "/tmp/ks-photo-work/candidates/kicks/t01.jpg",
+      "crop": [
+        0.12,
+        0.05,
+        0.92,
+        0.98
+      ],
+      "bytes": 47658,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "week": {
+      "word": "week",
+      "file": "week.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Calendar_image.jpg",
+      "author": "Basti93",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "Calendar image.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A weekly planner page (week 41) with a date circled. Calendar text is inherent to the subject.",
+      "src_local": "/tmp/ks-photo-work/candidates/week/t02.jpg",
+      "crop": [
+        0.05,
+        0.05,
+        0.95,
+        0.95
+      ],
+      "bytes": 7966,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "weeks": {
+      "word": "weeks",
+      "file": "weeks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:WallCalendar.jpg",
+      "author": "Claudio Elias",
+      "license": "Public Domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "title": "WallCalendar.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A wall calendar showing more than one month, so several weeks are visible. Calendar text is inherent to the subject.",
+      "src_local": "/tmp/ks-photo-work/candidates/week/t01.jpg",
+      "crop": [
+        0.2,
+        0.08,
+        0.88,
+        0.88
+      ],
+      "bytes": 35058,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "blink": {
+      "word": "blink",
+      "file": "blink.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tabby_cat_with_visible_nictitating_membrane.jpg",
+      "author": "NikaJiadze",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "title": "Tabby cat with visible nictitating membrane.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "A tabby cat whose eyes are partly closed, with a nictitating membrane visible. Animal used because a clean sourced still of a person blinking was not available.",
+      "src_local": "/tmp/ks-photo-work/candidates/blink/t03.jpg",
+      "crop": [
+        0.16,
+        0.0,
+        0.98,
+        0.78
+      ],
+      "bytes": 57254,
+      "size": [
+        600,
+        600
+      ]
+    },
+    "blinks": {
+      "word": "blinks",
+      "file": "blinks.webp",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pigeon_eyes_and_eyelids.jpg",
+      "author": "PigeonsAreAwesome",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "Pigeon eyes and eyelids.jpg",
+      "verified": true,
+      "kind": "object",
+      "notes": "Two pigeon eyes, cropped from one collage so the picture is clearly plural. Still photos of blinking are rare; these are two eyes rather than a mid-blink.",
+      "src_local": "/tmp/ks-photo-work/candidates/blinks/t01_pair.jpg",
+      "crop": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "bytes": 68954,
+      "size": [
+        600,
+        600
+      ]
+    }
+  }
+}

@@ -1,4 +1,4 @@
-/* Blend Buddies – Final /ks/. A friendly S slides from the right along K's arm, they link arms and make the final /ks/.
+/* Blend Buddies – Final /ks/. A friendly S slides from the right along K's arm, they link arms and make the final /ks/. The beginning of the written word slides over to meet the /ks/ ending (fo → x, boo → ks, ra → kes).
    Minimal pairs are part of the round when leaving the final /s/ still makes a real word (book to books).
    Words spelled with x (fox) use the letter x for /ks/; the buddies are still K and S.
    The listen slides ask the child to pick which word they heard.
@@ -238,18 +238,33 @@
     var friendLeft = !fromRight();
     return { left: (friendLeft ? w.s : w.partner).split(''), right: (friendLeft ? w.partner : w.s).split('') };
   }
-  function wordSegs(w) {
-    var segs = [];
-    if (w.pre) segs.push({ t: w.pre, color: null, kind: 'pre' });
+  function ksChunks(w) {
+    var word = String(w.word || ''), coda, onset;
     if (w.spell) {
-      segs.push({ t: w.spell, color: letterStyle('x').color, kind: 'blend', sSeg: true });
-    } else {
-      segs.push({ t: w.partner, color: letterStyle(w.partner).color, kind: 'blend' });
-      if (w.mid) segs.push({ t: w.mid, color: null, kind: 'mid' });
-      segs.push({ t: w.s, color: letterStyle(w.s).color, kind: 'blend', sSeg: true });
+      coda = String(w.spell);
+      onset = word.slice(0, Math.max(0, word.length - coda.length));
+    } else if (/nks$/i.test(word)) { coda = word.slice(-3); onset = word.slice(0, -3); }
+    else if (/cks$/i.test(word)) { coda = word.slice(-3); onset = word.slice(0, -3); }
+    else if (/kes$/i.test(word)) { coda = word.slice(-3); onset = word.slice(0, -3); }
+    else if (/ks$/i.test(word)) { coda = word.slice(-2); onset = word.slice(0, -2); }
+    else { onset = String(w.pre || ''); coda = word.slice(onset.length); }
+    return { onset: onset, coda: coda };
+  }
+  function codaParts(coda) {
+    var parts = [], i, ch, low;
+    for (i = 0; i < coda.length; i++) {
+      ch = coda.charAt(i); low = ch.toLowerCase();
+      if (low === 'x') parts.push({ t: ch, color: letterStyle('x').color, kind: 'blend', sSeg: true });
+      else if (low === 's') parts.push({ t: ch, color: letterStyle('s').color, kind: 'blend', sSeg: true });
+      else if (low === 'k' || low === 'c') parts.push({ t: ch, color: letterStyle('k').color, kind: 'blend' });
+      else parts.push({ t: ch, color: null, kind: 'mid' });
     }
-    if (w.rest && w.rest !== w.mid) segs.push({ t: w.rest, color: null, kind: 'rest' });
-    return segs;
+    return parts;
+  }
+  function wordSegs(w) {
+    var ch = ksChunks(w), segs = [];
+    if (ch.onset) segs.push({ t: ch.onset, color: null, kind: 'pre', onset: true });
+    return segs.concat(codaParts(ch.coda));
   }
   function markKs(node, text, isTarget) {
     node.textContent = '';
@@ -418,6 +433,13 @@
     el.without.setAttribute('x', endX.toFixed(1)); el.without.setAttribute('y', WY); el.without.setAttribute('text-anchor', 'start');
     el.without.style.setProperty('--mx', (startX - endX).toFixed(1) + 'px');
     stage.classList.toggle('morph-slide', slides);
+    var onsetW = 0;
+    segs.forEach(function (s, iOn) { if (s.onset) onsetW += widths[iOn]; });
+    G.onsetNodes = []; G.onsetBase = [];
+    nodes.forEach(function (nOn, iOn) {
+      if (segs[iOn].onset) { G.onsetNodes.push(nOn); G.onsetBase.push(parseFloat(nOn.getAttribute('x'))); }
+    });
+    G.onsetGap = Math.max(72, Math.min(140, Math.round(W * 0.12)));
     var rxB = total / 2 + 46, ryB = Fsz * 0.58 + 6, cxB = W / 2;
     for (var b = 0; b < 10; b++) {
       var ang = -Math.PI / 2 + b * Math.PI * 2 / 10 + 0.3, fx2 = clamp(cxB + rxB * Math.cos(ang), 24, W - 24), fy = clamp(WY + ryB * Math.sin(ang), WY - ryB, H - 18);
@@ -473,6 +495,11 @@
   function render() {
     var G = st.G, w = WORDS[st.idx]; if (!G || !w) return;
     var R = G.R, CY = G.CY, pos = st.pos, L = st.link, p = G.snapPos > 0 ? pos / G.snapPos : 1, dir = G.dir || 1, right = !!G.fromRight;
+    if (G.onsetNodes) {
+      var oDx = G.onsetGap * (1 - (st.done ? 1 : p));
+      G.onsetNodes.forEach(function (nOn, iOn) { nOn.setAttribute('x', (G.onsetBase[iOn] - oDx).toFixed(1)); });
+    }
+    stage.classList.toggle('chunk-play', !st.pairFlow || st.done || pos > 0.5);
     mover.style.transform = 'translate(' + (dir * pos).toFixed(1) + 'px,0px)';
     if (right) el.clip.setAttribute('x', (G.lead0 - pos).toFixed(1));
     el.clip.setAttribute('width', Math.max(0, pos).toFixed(1));
